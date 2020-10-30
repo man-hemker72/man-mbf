@@ -7,8 +7,7 @@ pkg install python git
 pip install requests bs4 futures
 git clone https://github.com/man-hemker72/man-mbf
 cd man-mbf
-python man-
-mbf.py
+python man-mbf.py
 ```
 
 ## screenshot

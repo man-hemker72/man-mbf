@@ -1,1 +1,0 @@
-print"(Jangan Lupa Subrek")
